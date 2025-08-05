@@ -1,0 +1,11 @@
+.nav-container{
+    height: 30px;
+}
+
+#login{
+    max-width: 400px;
+}
+
+.brand {
+    font-style: italic;
+}
